@@ -1,0 +1,46 @@
+code,text,label
+T90,Diabetes mellitus,0
+T90,Diabetes mellitus tipo 2,0
+T90,Diabetes mellitus não insulino dependente,0
+T90,Diabetes mellitus tipo 2 com retinopatia,0
+T90,Diabetes mellitus tipo 2 com nefropatia diabética,0
+T90,Diabetes mellitus tipo 2 com neuropatia,0
+T90,Diabetes mellitus tipo 2 com neuropatia periférica,0
+T90,Diabetes mellitus tipo 2 com neuropatia autonômica,0
+T90,Diabetes mellitus tipo 2 com neuropatia ,0
+T90,Diabetes mellitus tipo 2 com doença microvascular,0
+T90,Diabetes mellitus tipo 2 com doença macrovascular,0
+T90,Diabetes mellitus tipo 2 com doneça renal,0
+T90,Diabetes mellitus tipo 2 com doença renal crónica,0
+T90,Diabetes mellitus tipo 2 com doença renal terminal,0
+T90,Diabetes mellitus tipo 2 com disfunção autonómica,0
+T90,Diabetes mellitus tipo 2 com doneça cardiovascular,0
+T90,Diabetes mellitus tipo 2 com hipoglicemia,0
+T90,Diabetes mellitus tipo 2 com hiperglicemia,0
+T90,Diabetes mellitus tipo 2 com cetoacidose,0
+T90,Diabetes mellitus tipo 2 sob insulina,0
+K86,Hipertensão arterial,1
+K86,Hipertensão arterial sem complicações,1
+K86,Hipertensão arterial sem nefropatia,1
+K86,Hipertensão arterial sem doença renal,1
+K86,Hipertensão arterial sem doença renal crónica,1
+K86,Hipertensão arterial sem doença renal terminal,1
+K86,Hipertensão arterial sem doença cardiovascular,1
+K86,Hipertensão arterial sem aterosclerose,1
+K86,Hipertensão arterial sem insuficiência cardíaca,1
+K86,Hipertensão arterial sem insuficiência cardíaca congestiva,1
+K86,Hipertensão arterial sem doença cerbrovascular,1
+K86,Hipertensão arterial sem doença vascular periférica,1
+K86,Hipertensão arterial sem doença arterial coronária,1
+K86,Hipertensão arterial controlada,1
+K86,Hipertensão arterial sob medicação,1
+K86,Hipertensão arterial sem alterações cardíacas,1
+K86,Hipertensão arterial sem alterações eletrocardiográficas,1
+K86,Hipertensão arterial sem alterações ecocardiográficas,1
+K86,Hipertensão arterial sem alterações hemodinâmicas,1
+K86,Hipertensão arterial sem alterações vasculares,1
+K86,Hipertensão arterial sem alterações renais,1
+K86,Hipertensão arterial sem alterações oftalmológicas,1
+K86,Hipertensão arterial sem alterações neurológicas,1
+K86,Hipertensão arterial sem alterações cerebrais,1
+K86,Hipertensão arterial sem alterações cerebrovasculares,1
