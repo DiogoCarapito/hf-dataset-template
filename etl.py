@@ -47,15 +47,17 @@ def main(up_hf=False):
         data[["code", "text", "chapter", "origin", "label"]], features=features
     )
 
-    # slpit the dataset
-    train_test_split = dataset.train_test_split(
-        test_size=0.2, seed=42, stratify_by_column="label"
-    )
+    # # slpit the dataset
+    # train_test_split = dataset.train_test_split(
+    #     test_size=0.2, seed=42, stratify_by_column="label"
+    # )
 
-    # create a dataset dict
-    dataset_dict = DatasetDict(
-        {"train": train_test_split["train"], "test": train_test_split["test"]}
-    )
+    # # create a dataset dict
+    # dataset_dict = DatasetDict(
+    #     {"train": train_test_split["train"],
+    #      "test": train_test_split["test"]}
+    # )
+    dataset_dict = DatasetDict({"train":dataset})  # for now we will use the full dataset
 
     # save the dataset
     dataset_dict.save_to_disk("data/dataset_huggingface")
